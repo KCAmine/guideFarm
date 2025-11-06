@@ -70,18 +70,26 @@
  :root {
   --vp-home-hero-name-color: transparent;
   --vp-home-hero-name-background: -webkit-linear-gradient(
-    120deg,
-    #b56ca3 30%,
-    #8e5a6a
+    95deg,
+    #d60edd 50%,
+    #8be8f2 50%
   );
+
+
 
    --vp-home-hero-image-background-image: linear-gradient(
     -45deg,
-    #b14c70 50%,
-    #9e76a7 50%
+    #9f7082 50%,
+    #7a4a5c 50%
+    
   );
   --vp-home-hero-image-filter: blur(30px);
 }
+
+:root {
+  --vp-home-hero-name-background: linear-gradient(120deg, #f28ba0, #8e5a6a);
+}
+
 
 .VPContent.is-home{
     background-color:  #1b1a1b;
@@ -96,20 +104,20 @@
 
 @media (min-width: 640px) {
   :root {
-    --vp-home-hero-image-filter: blur(36px);
+    --vp-home-hero-image-filter: blur(56px);
   }
 }
 
 @media (min-width: 960px) {
   :root {
-    --vp-home-hero-image-filter: blur(68px);
+    --vp-home-hero-image-filter: blur(90px);
   }
 }
 
 .VPImage.image-src{
-    width: 180px;  /* ajuste selon besoin */
-    height: auto;  /* garde les proportions */
-    border-radius: 20px;
+    width: 500px;  /* ajuste selon besoin */
+    height: 500px;  /* garde les proportions */
+    border-radius: 40px;
 }
 
 .box {
@@ -123,19 +131,19 @@
 }
 
 .link-text-value {
-  color: #a7769b !important;
+  color: #f28ba0 !important;
 }
 
 .VPLink.link.no-icon.VPFeature {
-    color: #d8cbd5;
+    color: #f0edef;
     override-colors: #a41681;
 }
 
 
 :root {
-  --vp-c-brand-1: #a7769b;
-  --vp-c-brand-2: #ac679e;
-  --vp-c-brand-3: #d68edd;
+  --vp-c-brand-1: #f28ba0;  /* Rose principal */
+  --vp-c-brand-2: #e8718c;  /* Rose hover */
+  --vp-c-brand-3: #de5a78;  /* Rose actif */
 }
 
 .VPNavBarMenuLink:hover,
