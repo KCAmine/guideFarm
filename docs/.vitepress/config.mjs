@@ -4,6 +4,9 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Guide NPF -  Docs",
   description: "The most accurate NPF guide Documentation",
+  head: [
+    ['link', { rel: 'icon', href: '/assets/ressourceBooster.png' }]
+  ],
   appearance: 'force-dark',
   cleanUrls: true,
  
