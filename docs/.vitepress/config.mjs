@@ -4,12 +4,9 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Guide NPF -  Docs",
   description: "The most accurate NPF guide Documentation",
-  
+  appearance: 'force-dark',
   cleanUrls: true,
-  sitemap: {
-    hostname: 'https://guidefarm.vercel.app/'
-  },
-  
+ 
   
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
