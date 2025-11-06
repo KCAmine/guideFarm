@@ -3,23 +3,29 @@
 layout: home
 
 hero:
-  name: "Guide NPF"
-  text: "Guide NPF"
-  tagline: My great project tagline
-  actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+  name: "Guide NPF - Docs "
+  tagline: The most accurate NPF guide documentation
+  image: 
+    src: "ajouter l'image"
+    alt: ajouter l'image ici plus tard 
+
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Getting started 
+    details: A complete starting point for advanced players Learn how to farm efficiently, understand resources, and master mission flow.
+    link : '/get-started/why'
+    linkText: Read 
+  - title: Builds
+    details: Find the most effective Warframe and companion builds, optimized for different missions, farming, and combat scenarios, with tips to tweak them for your playstyle.
+    link: '/builds/companion.md'
+    linkText: Read
+  - title: Farming Methods
+    details: Explore the most effective farming locations, learn strategies to optimize your runs, and get practical tips to maximize NPF and resources efficiently in every mission.  
+    link: 'farming/nanoSpore.md'
+    linkText: Read
+  - title: Credits and Logs
+    details: Thanks to ..
+    link: '/credits'
+    linkText : Read
 ---
 
