@@ -27,7 +27,8 @@ export default defineConfig({
             text : 'Getting Started',
             collapsed: false,
             items: [
-              { text: 'Introduction', link: '/get-started/why.md' }
+              { text: 'Introduction', link: '/get-started/why.md' },
+              { text: 'Mission Conditions', link: '/get-started/missionConditions.md' }
             ]
           },
           {
