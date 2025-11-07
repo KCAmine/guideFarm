@@ -58,7 +58,10 @@ Each Dark Sector node is an endless mission with a higher credit payout, increas
 
 you are free to complete the missions solo , [Khora](../builds/khoraOrigin.md) will be the most efficient choice for this, but in any case, you will be far less profitable compared to a full squad.
 
-## [*__SPREADSHEET__*](https://docs.google.com/document/d/1ufDAAV7SEU0UBG05x9STuzWOO1WhoZ1gWVm20n7pSvw/edit?tab=t.0)
+::: tip
+##   [*__SPREADSHEET__*](https://docs.google.com/document/d/1ufDAAV7SEU0UBG05x9STuzWOO1WhoZ1gWVm20n7pSvw/edit?tab=t.0) 
+
+
 
 **This table refers to all the tests I’ve been able to do (even if I don’t always remember to fill it in)**
 
