@@ -1,0 +1,1 @@
+import{_ as a,c as t,o as r,ah as o}from"./chunks/framework.Bln8JRzz.js";const c=JSON.parse('{"title":"CHANGE / BUG","description":"","frontmatter":{},"headers":[],"relativePath":"log.md","filePath":"log.md"}'),i={name:"log.md"};function n(s,e,l,d,h,g){return r(),t("div",null,[...e[0]||(e[0]=[o("",17)])])}const p=a(i,[["render",n]]);export{c as __pageData,p as default};
