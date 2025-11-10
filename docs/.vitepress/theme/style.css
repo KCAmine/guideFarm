@@ -83,7 +83,7 @@
     #7a4a5c 50%
     
   );
-  --vp-home-hero-image-filter: blur(30px);
+  
 }
 
 :root {
@@ -171,7 +171,3 @@
   --vp-custom-block-tip-code-bg: var(--vp-c-brand-soft);
 }
 
-.VPImage.image-src {
-  
-  background-image: url('../public/sosoHero.png') !important;
-}
