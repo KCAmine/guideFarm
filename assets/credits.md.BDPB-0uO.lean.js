@@ -1,1 +1,0 @@
-import{_ as o,c as t,o as r,ah as a}from"./chunks/framework.Bln8JRzz.js";const c=JSON.parse('{"title":"Credit","description":"","frontmatter":{},"headers":[],"relativePath":"credits.md","filePath":"credits.md"}'),s={name:"credits.md"};function i(n,e,l,g,d,u){return r(),t("div",null,[...e[0]||(e[0]=[a("",6)])])}const f=o(s,[["render",i]]);export{c as __pageData,f as default};
