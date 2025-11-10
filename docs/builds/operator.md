@@ -19,8 +19,7 @@ Very often it's the host who uses the Magus Anomaly to avoid too many problems, 
 To spam your Transference, simply press your Transference key (by default it's the "5" key) followed by a melee attack, and repeat this procedure.
 :::
 
->NOTE pour moi : 
-> video des comparaison a ajouter
+> TODO : Add comparison  gifs between spam and press transference 
 
 
 
@@ -35,6 +34,6 @@ To spam your Transference, simply press your Transference key (by default it's t
 **Magus Aggress** , on Warframe Melee Transfer, causes Heavy Blades and Hammers ( **Magistar** ) to deal bonus Critical Multiplier for the next 4 attacks, with a 20 second cooldown.
 This Magus will only be used for  [Magistar Acolyte Killer](./weapons.md)
 
-> NOTE pour moi : video Animation Cancel 
->You can cancel the melee/transference animation with a roll, cast the cage, but the fastest method is to use her whip right after her melee attack
+> TODO : Comparing Gifs needs to be added (see BAN's guide "cancel melee transference animation...")
+
 

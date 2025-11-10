@@ -1,7 +1,7 @@
 
-# Why ? 
+# <u> WHY </u> 
 
-### Now you might ask yourself why would a NPF guide be any usefull 
+###   Now you might ask yourself why would a NPF guide be any usefull 
 
 
 The answer is simple: it's the resources we need to do all the endgame activities. Endgame players will always need these Gear supplies
@@ -16,6 +16,6 @@ The answer is simple: it's the resources we need to do all the endgame activitie
 
 
 
-<img src="./assets/consumer.png" alt="Foundry_Gear_Supplies_Image" style="width: 98%; height: auto;">
+<img src="./assets/consumer.png" alt="Foundry_Gear_Supplies_Image" style="width: 75%; height: auto;">
 
 

@@ -13,9 +13,10 @@
 :::tip
 We won't be playing in **SP mode**, we just want the **cage to kill mobs**.  
 You can play in SP if you like — the **method and builds** will be the same for **Nova** and **Nekros**, but **not for Khora**.  
+
+*It is recommended that all squad members play* **Power Donation**
 :::
 
->  It is recommended that all squad members play **Power Donation**. 
 
 
  <div style="margin-top: 20px;">
@@ -24,7 +25,9 @@ You can play in SP if you like — the **method and builds** will be the same fo
 
 ### <u> <strong> Tile Sets </strong> </u> 
 
-Here is the location or mission we use to collect nano spores. **Two tile sets** are available: **one that we want** and the other that we ignore .To distinguish the room, we use a **key indicator**; 
+Here is the location or mission we use to collect nano spores.  
+**Two tile sets** are available: **one that we want** and the other that we ignore .  
+To distinguish the room, we use a **key indicator**; 
 
 >  [!IMPORTANT]
 > At the start of the mission, two waypoints will appear. 
@@ -173,7 +176,7 @@ In the mission, Nekros will use his 3 (Desecrate) and his Helminth ability:
 - **Composition:** 1 [Khora](../builds/khoraSteelPath.md) · 1 [Nova](../builds/novaosSp.md) · 2 [Nekros](../builds/nekrososSp.md)
 
 <div style="margin-top: 20px;">
-   <img src="./assets/zabaleTile.png" alt="Zabala Right Tile   " style="width:90%; height:auto;" />
+   <img src="./assets/zabaleTile.png" alt="Zabala Right Tile   " style="width:80%; height:auto;" />
 </div>
 
 ### <u> <strong> Tile Sets </strong> </u> 
@@ -216,14 +219,14 @@ We can place one [Nekros Pull](../builds/nekrososSp.md#pull) on the med tower an
 - AimGlide  - Down
 - Press Antimatter keybind
 - Press MedTower keybind 
->TODO : Ajouter  la video de nova 
+>TODO : ADD NOVA MED TOWER PLACEMENT PROCEDURE  GIF 
 
 *To get the med tower, you just need to obtain the MANTIS.*
 *Then press Escape  ➛ Orbiter  ➛ Landing Craft  ➛ Air Support  ➛ Select Med-Tower*
 
 *Position Nekros Pettrify*
 
->TODO : Ajouter la video de Nekros petrify 
+>TODO : ADD NEKROS PLACEMENT WITH PETRIFY GIF 
 
 ### <u> <strong> Position - Role </strong> </u> 
 

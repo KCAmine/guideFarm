@@ -37,14 +37,15 @@ When you spawn into the mission,
 
 ### <u> <strong> Method Origin System </strong> </u> 
 
-Once you've found the right tile, activate the alarm and proceed to the small room at the bottom of the stairs on the right (indicated by a circle on the image)
+Once you've found the right tile, activate the alarm and proceed to the small room at the bottom of the stairs on the right (indicated by a circle on the image bellow)
 
 <div style="margin-top: 20px;">
    <img src="./assets/aniRightTileFirst.png" alt="Ani Map  " style="width:100%; height:auto;" />
 </div>
 
 
-The method remains very basic. [Khora](../builds/khoraOrigin.md) will need to place her cage at this spot (indicated by the red circle).  
+The method remains very basic.  
+ [Khora](../builds/khoraOrigin.md) will need to place her cage at this spot (indicated by the red circle).  
 Then, the rest of the squad will stay in the small room and activate their respective spells.
 You will need to collect some loot located at the entrance of the room. Leave the room to retrieve them, then quickly return so that the mobs keep moving into the cage  
 
@@ -103,7 +104,7 @@ For [Nekros Rage](../builds/nekrososSp.md#rage) can use “Rage” (Helminth) on
 - Press Antimatter keybind
 - Press Medtower keybind
 
-> TODO : AJOUTER LA VIDEO DE LA MED TOWER ANI 
+> TODO : ADD NOVA MED TOWER PLACEMENT PROCEDURE GIF  
 
 :::tip
 For  [Nekros Rage](../builds/nekrososSp.md#rage) can use “Rage” (Helminth) on certain textures that the game considers transparent, which is useful for boosting enemies without having direct line of sight on them

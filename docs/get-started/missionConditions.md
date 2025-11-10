@@ -1,6 +1,6 @@
-# Mission Conditions
+# <u> Mission Conditions </u> 
 
-## Booster - Blessing : 
+##  <u> Booster - Blessing  </u> 
 
 
 
@@ -13,7 +13,7 @@
 
 
 
-## Steel Path 
+## <u> Steel Path </u> 
 
 - All Steel Path missions benefit from a **+100% increase in resource drop chance** and a **+100% increase in mod drop chance** .
 - This is cumulative with your booster, so starting on SP is usually the most viable option
@@ -22,10 +22,10 @@
     <img src="./assets/darkSector.png" alt="image" style="width:43%; height:auto;">
 </div>
 
-## Fissure 
+## <u> Fissure </u> 
 
 Endless Missions:
-- Void Fissure missions survival have bonus rewards per rotation if the player collects enough Reactant:
+- **Void Fissure missions survival have bonus rewards per rotation if the player collects enough Reactant**:
 
 1. 1.25x Affinity Booster
 2. 1.25x Credit Booster
@@ -39,7 +39,7 @@ Endless Missions:
 10. One random Flawless Relic of the mission's relic tier
 - **Boosters will continue to increase by 0.25x up to a cap of 2x, occurring at the nineteenth interval.**
 
-## Dark Sector 
+## <u> Dark Sector </u> 
 
 Dark Sectors are unique parts of the Star Chart, uninhabited by most civilizations and controlled by the Infested, regardless of the faction controlling the planet.
 
@@ -50,7 +50,7 @@ Each Dark Sector node is an endless mission with a higher credit payout, increas
 </div>
 
 
-## Solo - Squads
+## <u> Solo - Squads </u>
 
 **It is recommended to play with a full squad to increase mob spawns**, take advantage of your Nekros' Desecrates, and therefore obtain significantly more loot at the end of your mission.
 

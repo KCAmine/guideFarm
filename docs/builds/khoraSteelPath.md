@@ -2,14 +2,17 @@
 
 ## <u> <strong> Steel Path Build 1 </strong> </u>
 
-⭐ <u> <strong> **Lycath’s Hunt**</strong> </u> : enemy killed by melee attacks (whipclaw) has a 50% chance to drop a Health Orb ( equilibrium synergie), enemy directly killed headshot hits has a 50% chance to drop an Energy Orb. Kill an enemy affected by at least 5 Status Effects to extend Lycath's Hunt's remaining duration, 
+⭐ <u> <strong> **Lycath’s Hunt**</strong> </u> : Ennemies killed by melee attacks (whipclaw) have a 50% chance to drop a Health Orb ( equilibrium synergie), ennemies directly killed with headshot hits has a 50% chance to drop an Energy Orb. Killing  ennemies affected by at least 5 Status Effects will extend Lycath's Hunt's remaining duration, 
 
- - **We can replace** : Brief Respite per [**__Corrosive Projection__**](https://warframe.fandom.com/wiki/Corrosive_Projection)
+ -  **Brief Respite**
 
-- Equilibrium / Primed Flow for energies 
--  Stretch / Overextended - **235 range**
+    ➛ Can be replaced by [**__Corrosive Projection__**](https://warframe.fandom.com/wiki/Corrosive_Projection)
 
- - **We can replace** : [**__Stretch__**](https://warframe.fandom.com/wiki/Stretch) per [**__Augur Reach__**](https://warframe.fandom.com/wiki/Augur_Reach) for Augur SET synergies - **220 range**
+- **Equilibrium / Primed Flow** for energies 
+-  **Stretch / Overextended** : good 245 range
+- [**__Stretch__**](https://warframe.fandom.com/wiki/Stretch) can be replaced by [**__Augur Reach__**](https://warframe.fandom.com/wiki/Augur_Reach) for Augur SET synergies - (*220 range*)
+
+ 
 
 <div style="margin-top: 20px;">
   <img src="./assets/khoraSpFirstBuild.png" alt="Khora_Sp_First_build" style="width:100%; height:auto;" />

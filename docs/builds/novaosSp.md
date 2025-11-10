@@ -5,11 +5,12 @@
 ⭐ <u> <strong>  **Quiver SUBSUME** </strong> </u> 
 Cloak Arrow: The Warframe that receives this ability can shoot an arrow that creates a zone of invisibility for itself and its allies. This is particularly useful for making mobs aggro on you and not shoot from a distance, causing them to stay in a fixed spot and not move.
 
--  Narrow Minded,Primed Continuity,Augur Message HIGH DURATION
--  Corrosive Projection to reduce the armor 
-- We can replace per : Steel Charge / Melee Guidance / Growing Power/Dreamer’s Bond
--  Equilibrium / Primed Flow for energies 
--  Precision Intensify ➛ 75% Speed Enemies 
+-  **Narrow Minded, Primed Continuity, Augur Message** for  HIGH DURATION
+-  **Corrosive Projection** to reduce the armor 
+
+   ➛ Can be replaced by  :  [**Steel Charge**](https://wiki.warframe.com/w/Steel_Charge) / [**Melee Guidance**](https://warframe.fandom.com/wiki/Melee_Guidance) / [**Growing Power**](https://wiki.warframe.com/w/Growing_Power)[**Dreamer’s Bond**](https://warframe.fandom.com/wiki/Dreamer%27s_Bond)
+-  **Equilibrium / Primed Flow** for energy 
+-  **Precision Intensify** ➛ 75% Speed Enemies 
  
  
 <div style="margin-top: 20px;">
@@ -32,11 +33,12 @@ A target affected by Rage has its speed increased and becomes more vulnerable to
    <img src="./assets/emessive.png" alt="Emessive settings " style="width:40%; height:auto;" />
 </div>
 
-- Narrow Minded,Primed Continuity,Augur Message HIGH DURATION
--  Corrosive Projection to reduce the armor 
-- Can be replaced by : [**__Steel Charge__**](https://wiki.warframe.com/w/Steel_Charge) / [**__Melee Guidance__**](https://warframe.fandom.com/wiki/Melee_Guidance) /[**__Growing Power__**](https://wiki.warframe.com/w/Growing_Power)
+- **Narrow Minded, Primed Continuity, Augur Message** for HIGH DURATION
+-  **Corrosive Projection** to reduce the armor 
+
+   ➛ Can be replaced by : [**__Steel Charge__**](https://wiki.warframe.com/w/Steel_Charge) / [**__Melee Guidance__**](https://warframe.fandom.com/wiki/Melee_Guidance) /[**__Growing Power__**](https://wiki.warframe.com/w/Growing_Power)
 - [**__Equilibrium__**](https://wiki.warframe.com/w/Equilibrium) / [**__Primed Flow__**](https://wiki.warframe.com/w/Primed_Flow) for energies 
-- [**__Umbral Intensify__**](https://wiki.warframe.com/w/Umbral_Intensify[) / [**__Blind Rage__**](https://warframe.fandom.com/wiki/Blind_Rage) ➛ 75% Speed Enemies and boost “Rage”
+- [**__Umbral Intensify__**](https://wiki.warframe.com/w/Umbral_Intensify) / [**__Blind Rage__**](https://warframe.fandom.com/wiki/Blind_Rage) ➛ 75% Speed Enemies and boost “Rage”
  
 <div style="margin-top: 20px;">
    <img src="./assets/novaRage.png" alt="Nova Rage " style="width:100%; height:auto;" />
@@ -63,4 +65,4 @@ Since the Koumei update, we can have the slow on a short press and **the speed o
    <img src="./assets/novaInverted.png" alt=" settings " style="width:100%; height:auto;" />
 </div>
 
-This won't affect **Quiver**, you'll still have **Cloak** on short press
+This won't affect **Quiver**, you will  still have **Cloak** on short press

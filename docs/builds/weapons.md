@@ -26,7 +26,7 @@ This synergizes very well with [**__Equilibrium__**](https://wiki.warframe.com/w
 
  Rauta  increases the equipped melee weapon's *Melee Combo Count with each pellet* that lands on an enemy.
 
-  **Very useful for building up your combo counter with the [**__Magistar__**](https://warframe.fandom.com/fr/wiki/Magistar):
+  **Very useful for building up your combo counter with the** [**__Magistar__**](https://warframe.fandom.com/fr/wiki/Magistar) :
 
 - **Multishot** is a key stat to quickly increase your combo count
 - **Fire Rate** is also important to speed up combo count
@@ -86,7 +86,7 @@ or
 </div>
 
 
-* il manquera une video a rajouter* en dessous faudra allez voir 
+> TODO : Add part "How to Set up for Efficient Acolyte Kill " (see BAN's guide ) and add the gif 
 
 
 

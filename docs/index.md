@@ -6,7 +6,7 @@ hero:
   name: "Guide NPF - Docs "
   tagline: The most accurate NPF guide documentation
   image: 
-    src: "/assets/sosoHero.png"
+    src: "/logoNpf.png"
     alt: Accueil
 
 

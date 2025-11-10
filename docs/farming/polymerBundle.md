@@ -6,7 +6,7 @@
 - **Composition:** 1 [Khora](../builds/khoraSteelPath.md) · 1 [Nova](../builds/novaosSp.md) · 2 [Nekros](../builds/nekrososSp.md)
 
 <div style="margin-top: 20px;">
-   <img src="./assets/uranusMap.png" alt="uranus map   " style="width:90%; height:auto;" />
+   <img src="./assets/uranusMap.png" alt="uranus map   " style="width:85%; height:auto;" />
 </div>
 
 
@@ -18,7 +18,7 @@
 :::
 
 <div style="margin-top: 20px;">
-   <img src="./assets/uranusTile.png" alt="uranus map tile  " style="width:90%; height:auto;" />
+   <img src="./assets/uranusTile.png" alt="uranus map tile  " style="width:85%; height:auto;" />
 </div>
 
 ### <u> <strong> Method Origin System </strong> </u> 
@@ -26,7 +26,7 @@
 Enter through this door indicated by the red circle, you will be taken to a small room with a staircase, [Khora](../builds/khoraOrigin.md) will have to put the cage (where it is indicated on the picture). 
 
 <div style="margin-top: 20px;">
-   <img src="./assets/uranusKhoraP.png" alt="uranus khora pacement  " style="width:90%; height:auto;" />
+   <img src="./assets/uranusKhoraP.png" alt="uranus khora pacement  " style="width:85%; height:auto;" />
 </div>
 
 **The remainder of the game is simple:**
@@ -53,13 +53,13 @@ Enter through this door indicated by the red circle, you will be taken to a smal
 <div style="margin-top: 20px;">
    <img src="./assets/uranusTipIII.png" alt="uranus tip III  " style="width:90%; height:auto;" />
 </div>
-
+:::
 
 ### <u> <strong> Method Steel Path </strong> </u> 
 
-- [Khopra](../builds/khoraSteelPath.md) puts her dome in the place indicated by the red circle
-- [Nekros](../builds/nekrososSp.md#pull) pulls enemies that are within the green circles.
-- A [Nekros](../builds/nekrososSp.md#rage) with Rage will be very useful, as there are many transparent textures that he can exploit to speed up the enemies
+- [Khora](../builds/khoraSteelPath.md) puts her dome in the place indicated by the red circle
+- [Nekros pulls](../builds/nekrososSp.md#pull) enemies that are within the green circles.
+- [Nekros rage](../builds/nekrososSp.md#rage) will be very useful, as there are many transparent textures that he can exploit to speed up the enemies
 - [Nova](../builds/novaosSp.md#quiver) will increase mob speed and make the squad invisible with **Quiver**
 
 <div style="margin-top: 20px;">
@@ -86,6 +86,7 @@ In the mission,
 - Cast third ability  (Desecrate) and his Helminth ability, Rage, to increase the speed of the enemies and their vulnerability to damage.
 
 - Alternatively, he can use **Pull** to bring the enemies into the cage or to unstick them.
+
 *It is always preferable to have one Nekros with [Pull](../builds/nekrososSp.md#pull) and one Nekros with [Rage](../builds/nekrososSp.md#rage) in the team*
 
 
@@ -96,7 +97,7 @@ In the mission,
 
 
 <div style="margin-top: 20px;">
-   <img src="./assets/assurMap.png" alt="assur map  " style="width:90%; height:auto;" />
+   <img src="./assets/assurMap.png" alt="assur map  " style="width:85%; height:auto;" />
 </div>
 
 ### <u> <strong> Tile Sets </strong> </u> 
@@ -107,7 +108,7 @@ In the mission,
 :::
 
 <div style="margin-top: 20px;">
-   <img src="./assets/assurTile.png" alt="assur tile  " style="width:90%; height:auto;" />
+   <img src="./assets/assurTile.png" alt="assur tile  " style="width:85%; height:auto;" />
 </div>
 
 ### <u> <strong> Method Steel Path </strong> </u> 
@@ -119,13 +120,13 @@ In the mission,
 - [Nova Quiver](../builds/novaosSp.md#quiver) makes mobs aggro on you and shoot from a distance, causing them to stay in a fixed spot and not move.
 
 <div style="margin-top: 20px;">
-   <img src="./assets/assurMethodSP.png" alt="assur method  " style="width:90%; height:auto;" />
+   <img src="./assets/assurMethodSP.png" alt="assur method  " style="width:85%; height:auto;" />
 </div>
 
 *Mob Spawn Location Nekros POV* 
 
 <div style="margin-top: 20px;">
-   <img src="./assets/assurNekrosP.png" alt="assur nekros placement " style="width:90%; height:auto;" />
+   <img src="./assets/assurNekrosP.png" alt="assur nekros placement " style="width:85%; height:auto;" />
 </div>
 
 
