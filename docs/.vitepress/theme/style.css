@@ -170,3 +170,8 @@
   --vp-custom-block-tip-bg: var(--vp-c-brand-soft);
   --vp-custom-block-tip-code-bg: var(--vp-c-brand-soft);
 }
+
+.VPImage.image-src {
+  
+  background-image: url('../public/sosoHero.png') !important;
+}
