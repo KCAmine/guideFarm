@@ -43,3 +43,8 @@
 **2024.10** – You must place the first two serums in a console to spawn mobs; otherwise, nothing will appear.  
 **2024.10** – Smeeta has had its Charm mod nerfed, making Chesa more appealing for farming.  
 **2024.10** – Build changes on Nova, following the modifications to her abilities.  
+
+:::info 
+
+*Last update for this guide : 20/11/2025*
+:::

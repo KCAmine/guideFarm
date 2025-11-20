@@ -23,6 +23,7 @@ You can play in SP if you like — the **method and builds** will be the same fo
    <img src="./assets/oestrus.png" alt="Oestrus" style="width:75%; height:auto;" />
  </div>
 
+
 ### <u> <strong> Tile Sets </strong> </u> 
 
 Here is the location or mission we use to collect nano spores.  
@@ -213,20 +214,40 @@ We can place one [Nekros Pull](../builds/nekrososSp.md#pull) on the med tower an
    <img src="./assets/zabalaNekrosP2.png" alt="Zabala Nekros Placement 2  " style="width:90%; height:auto;" />
 </div>
 
-*TOWER PLACEMENT WITH NOVA*
+::: tip <u> *TOWER PLACEMENT WITH NOVA* </u>  
+
+
 
 - Double Jump
 - AimGlide  - Down
 - Press Antimatter keybind
 - Press MedTower keybind 
->TODO : ADD NOVA MED TOWER PLACEMENT PROCEDURE  GIF 
 
-*To get the med tower, you just need to obtain the MANTIS.*
-*Then press Escape  ➛ Orbiter  ➛ Landing Craft  ➛ Air Support  ➛ Select Med-Tower*
+<div style="margin-top: 20px;">
+   <img src="./assetsGif/NOVAMEDTOWER-ezgif.com-video-to-gif-converter.gif" alt="Zabala Nekros Placement 2  " style="width:90%; height:auto;" />
+</div>
 
-*Position Nekros Pettrify*
+:::
 
->TODO : ADD NEKROS PLACEMENT WITH PETRIFY GIF 
+::: info 
+
+*To get the med tower, you just need to obtain the [**__Mantis__**](https://warframe.fandom.com/wiki/Mantis#Acquisition)*.
+
+*Then press Escape   ➛ Orbiter   ➛ Landing Craft   ➛ Air Support   ➛ Select Med-Tower*
+:::
+
+
+::: tip <u> *Nekros Petrify Placement* </u>  
+
+ 
+
+<div style="margin-top: 20px;">
+   <img src="./assetsGif/nekrosPPgif.gif" alt="Nekros Petrify Position  " style="width:100%; height:auto;" />
+</div>
+
+
+:::       
+
 
 ### <u> <strong> Position - Role </strong> </u> 
 

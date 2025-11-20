@@ -15,6 +15,12 @@ Primary Gaze will be used to proc [**__Mending Shot__**](https://warframe.fandom
 
  It also works well with the [**__Glaxion__**](https://wiki.warframe.com/w/Glaxion)
 This synergizes very well with [**__Equilibrium__**](https://wiki.warframe.com/w/Equilibrium); you'll never run out of energy
+
+<div style="margin-top: 20px;">
+   <img src="./assets/gazeExemple.gif" alt="Gaze demo " style="width:100%; height:auto;" />
+ </div>
+
+
 :::
 
 ### <u> <strong> Rauta </strong> </u>  
@@ -86,11 +92,12 @@ or
 </div>
 
 
-> TODO : Add part "How to Set up for Efficient Acolyte Kill " (see BAN's guide ) and add the gif 
 
 
 
+:::info 
 
+*Last update for this guide : 20/11/2025*
 
 
 

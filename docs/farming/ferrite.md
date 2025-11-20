@@ -97,17 +97,22 @@ For [Nekros Rage](../builds/nekrososSp.md#rage) can use “Rage” (Helminth) on
    <img src="./assets/aniNekPlacement.png" alt="Ani nekros  " style="width:100%; height:auto;" />
 </div>
 
-*Tower placement for nova* 
+
+:::tip  <u> *Tower placement for nova*  </u> 
+
 
 - Double Jump
 - AimGlide - Down
 - Press Antimatter keybind
 - Press Medtower keybind
 
-> TODO : ADD NOVA MED TOWER PLACEMENT PROCEDURE GIF  
+<div style="margin-top: 20px;">
+   <img src="./assetsGif/novaAniMed.gif" alt="Nova Med Procedure   " style="width:100%; height:auto;" />
+</div>
+:::
 
-:::tip
-For  [Nekros Rage](../builds/nekrososSp.md#rage) can use “Rage” (Helminth) on certain textures that the game considers transparent, which is useful for boosting enemies without having direct line of sight on them
+:::info
+For  [Nekros Rage](../builds/nekrososSp.md#rage) (Helminth) on certain textures that the game considers transparent, which is useful for boosting enemies without having direct line of sight on them
 <div style="margin-top: 20px;">
    <img src="./assets/aniNekrosTipII.png" alt="Ani nekros tip II  " style="width:100%; height:auto;" />
 </div>

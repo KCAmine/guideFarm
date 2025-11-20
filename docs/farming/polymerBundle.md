@@ -152,3 +152,14 @@ In the mission,
 - [Pull](../builds/nekrososSp.md#pull) to bring enemies into the cage or unstick them.
 - [Petrify](../builds/nekrososSp.md#petrify) for additional loot (Khora needs to wait for your petrification before killing the enemies). *This method is much harder to set up*
 
+<div style="margin-top: 20px;">
+   <img src="./assetsGif/NOVAMEDTOWER-ezgif.com-video-to-gif-converter.gif" alt="Zabala Nekros Placement 2  " style="width:90%; height:auto;" />
+</div>
+
+
+
+
+
+<div style="margin-top: 20px;">
+   <img src="./assets/test.gif" alt="Zabala Nekros Placement 2  " style="width:90%; height:auto;" />
+</div>

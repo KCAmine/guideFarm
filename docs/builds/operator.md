@@ -2,14 +2,9 @@
 
 ### <u> <strong> Magus Anomaly </strong> </u>
 
-:::danger 
-
-**SPAMMING TOO MUCH  MAGUS ANOMALY DRASTICALLY REDUCES FPS** ( yes the game is well done... )  
-
-:::
 
 <div style="margin-top: 20px;">
-   <img src="./assets/magus.png" alt="Magus " style="width:40%; height:auto;" />
+   <img src="./assets/magus.png" alt="Magus " style="width:63%; height:auto;" />
 </div>
 
 :::info
@@ -19,7 +14,6 @@ Very often it's the host who uses the Magus Anomaly to avoid too many problems, 
 To spam your Transference, simply press your Transference key (by default it's the "5" key) followed by a melee attack, and repeat this procedure.
 :::
 
-> TODO : Add comparison  gifs between spam and press transference 
 
 
 
@@ -28,12 +22,13 @@ To spam your Transference, simply press your Transference key (by default it's t
 ### <u> <strong> Magus Agress </strong> </u> 
 
 <div style="margin-top: 20px;">
-   <img src="./assets/magusAgress.png" alt="Magus Agress " style="width:40%; height:auto;" />
+   <img src="./assets/magusAgress.png" alt="Magus Agress " style="width:63%; height:auto;" />
 </div>
 
-**Magus Aggress** , on Warframe Melee Transfer, causes Heavy Blades and Hammers ( **Magistar** ) to deal bonus Critical Multiplier for the next 4 attacks, with a 20 second cooldown.
+**Magus Aggress** , on Warframe Melee Transfer, causes Heavy Blades and Hammers ( **Magistar** ) to deal bonus Critical Multiplier for the next 4 attacks, with a 20 second cooldown. 
+
 This Magus will only be used for  [Magistar Acolyte Killer](./weapons.md)
 
-> TODO : Comparing Gifs needs to be added (see BAN's guide "cancel melee transference animation...")
+
 
 

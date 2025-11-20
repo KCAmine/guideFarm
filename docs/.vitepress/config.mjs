@@ -11,6 +11,11 @@ export default defineConfig({
   appearance: 'force-dark',
   cleanUrls: true,
  
+
+  markdown: {
+  toc: { level: [2, 3] }
+},
+
   
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -18,6 +23,8 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       
     ],
+
+
 
     sidebar: [
       {
